@@ -1,6 +1,4 @@
-# Makefile for ACET 2022 Poster Template
-# Written by Ye Kyaw Thu, Affiliate Professor, CADT, Cambodia
-# Last updated: 29 June 2022
+# Makefile for ACET 2026 Poster Template
 
 .PHONY: all old view clean clean_all
 
